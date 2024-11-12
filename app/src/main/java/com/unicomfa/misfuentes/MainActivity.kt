@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContentView(R.layout.activity_main)
-
+// codigo para fuentes
         val tvAnton = findViewById<TextView>(R.id.tiny)
         val tvDancing = findViewById<TextView>(R.id.danfo)
         tvAnton.typeface = ResourcesCompat.getFont(this, R.font.tiny5_normal)

@@ -11,7 +11,7 @@
 
     <TextView
         android:id="@+id/tiny"
-        android:text="Hola Tiny"
+        android:text="Hola fuente Tiny"
         android:textSize="45dp"
         android:padding="20dp"
         android:fontFamily="@font/tiny5_normal"
